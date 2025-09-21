@@ -26,7 +26,7 @@ DEMO: https://huggingface.co/spaces/aakash-malhan/customer-support-lora
 <img src="imagesscreenshot2.png" alt="Demo Screenshot 2" width="48%"/>  
 
 </div>
->
+
 
 ## ✨ Features  
 
