@@ -22,10 +22,11 @@ DEMO: https://huggingface.co/spaces/aakash-malhan/customer-support-lora
 
 <div align="center">
 
-<img src="images/screenshot1.png" alt="Demo Screenshot 1" width="48%"/>  
-<img src="images/screenshot2.png" alt="Demo Screenshot 2" width="48%"/>  
+<img src="imagesscreenshot1.png" alt="Demo Screenshot 1" width="48%"/>  
+<img src="imagesscreenshot2.png" alt="Demo Screenshot 2" width="48%"/>  
 
 </div>
+>
 
 ## ✨ Features  
 
@@ -42,7 +43,3 @@ DEMO: https://huggingface.co/spaces/aakash-malhan/customer-support-lora
 2. Select **style preset** + optional **brand voice**.  
 3. Model generates a **polite, tailored support response**.  
 4. Supports fine-tuning or LoRA adapters for domain-specific replies.   
-
-```bash
-git clone https://github.com/yourusername/Customer-Support-Reply-Generator.git
-cd Customer-Support-Reply-Generator
