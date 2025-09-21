@@ -13,8 +13,7 @@ DEMO: https://huggingface.co/spaces/aakash-malhan/customer-support-lora
 - **Issue severity** slider → more empathy and prioritization.
 - **Guardrails** to avoid risky replies (PII, promises, etc.).
 - **One-click templates** (Password reset, Shipment delay, Refund request, Account update).
-- **Sampling controls**: `max_new_tokens`, `temperature`, `top_p`.
-# 🤖 Customer Support Reply Generator   
+- **Sampling controls**: `max_new_tokens`, `temperature`, `top_p`.  
 
 ---
 
