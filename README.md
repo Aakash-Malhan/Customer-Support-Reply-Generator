@@ -18,16 +18,6 @@ DEMO: https://huggingface.co/spaces/aakash-malhan/customer-support-lora
 
 ---
 
-## 📸 Demo Screenshots  
-
-<div align="center">
-
-<img src="imagesscreenshot1.png" alt="Demo Screenshot 1" width="48%"/>  
-<img src="imagesscreenshot2.png" alt="Demo Screenshot 2" width="48%"/>  
-
-</div>
-
-
 ## ✨ Features  
 
 - **Pretrained lightweight LLMs** (CPU-friendly) with model switch (e.g., Qwen, TinyLlama).  
